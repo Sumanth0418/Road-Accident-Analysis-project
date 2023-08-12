@@ -36,6 +36,8 @@ The dashboard aims to fulfill the following requirements:
 
 - Visualize the total casualties and accidents for each location.
 
+Certainly! You can use DAX (Data Analysis Expressions) functions in Power BI to create new calculated columns that help you derive insights from your data. Here are some examples of how you could create calculated columns based on your requirements
+
 How to Use
 Accessing the Dashboard:
 
