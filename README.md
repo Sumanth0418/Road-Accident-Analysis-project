@@ -13,8 +13,8 @@ The dashboard aims to fulfill the following requirements:
   
 2.Primary KPIs - Total Casualties by Accident Severity:
 
- -Visualize the distribution of casualties based on accident severity for the current year.
- -Compare the YOY growth for each severity level.
+ - Visualize the distribution of casualties based on accident severity for the current year.
+ - Compare the YOY growth for each severity level.
  
 3.Secondary KPIs - Total Casualties by Vehicle Type:
 
