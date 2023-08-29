@@ -36,7 +36,7 @@ The dashboard aims to fulfill the following requirements:
 
 - Visualize the total casualties and accidents for each location.
 
-Certainly! You can use DAX (Data Analysis Expressions) functions in Power BI to create new calculated columns that help you derive insights from your data. Here are some examples of how you could create calculated columns based on your requirements
+Certainly! You can use DAX (Data Analysis Expressions) functions in Power BI to create new calculated columns that help you derive insights from your data.
 
 How to Use
 Accessing the Dashboard:
@@ -45,7 +45,7 @@ To view the dashboard, you can either download the Power BI file (.pbix) and ope
 Interacting with the Dashboard:
 
 The dashboard provides various interactive features, including slicers, filters, and drill-through options. Users can customize their view of the data to gain deeper insights.
-Data Source:
+
 
 The data used in this dashboard is based on road accident data for the years 2021 and 2022. The data has been processed and cleaned to ensure accurate analysis.
 
